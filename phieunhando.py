@@ -1,0 +1,6 @@
+print('Ten khach hang: ')
+ten_kh = input()
+print(ten_kh)
+print('So dien thoai: ')
+so_dt = input()
+print(so_dt)
